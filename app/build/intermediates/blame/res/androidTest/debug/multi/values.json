@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\Akshay Bengani\\Programming Data\\Android Projects\\CurrencyConverter\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\Users\\Akshay Bengani\\.android\\build-cache\\e26bcba01e171b8dc51bb413c7929d8cbfdb7b10\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]
