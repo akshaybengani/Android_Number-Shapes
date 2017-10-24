@@ -1,2 +1,3 @@
 # Android_Number-Shapes
-This will tell you about the number conversions
+This app results that your entered number is a triangular number or a square number or both.
+
