@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity {
             }
 
         }
+        //this function checks square
         public boolean isSquare()
         {
             double squareRoot = Math.sqrt(myNumber);
